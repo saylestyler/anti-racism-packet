@@ -4,3 +4,5 @@
 1. rename html file to index.html
 2. find css class that's on the body tag, add margin: 0 auto
 3. increase line space maybe
+4. push to git 
+5. run `npx now --prod`
