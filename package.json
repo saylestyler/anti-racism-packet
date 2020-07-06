@@ -1,0 +1,25 @@
+{
+  "name": "anti-racism-packet",
+  "version": "1.0.0",
+  "description": "0. delete contents of this folder (/images, index.html) 1. rename html file to index.html 2. find css class that's on the body tag, add margin: 0 auto 3. increase line space maybe 4. push to git  5. run `npx now --prod`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saylestyler/anti-racism-packet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saylestyler/anti-racism-packet/issues"
+  },
+  "homepage": "https://github.com/saylestyler/anti-racism-packet#readme",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-cli": "^6.0.0",
+    "imagemin-pngquant": "^9.0.0"
+  }
+}
